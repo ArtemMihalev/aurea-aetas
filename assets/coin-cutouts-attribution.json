@@ -1,0 +1,66 @@
+[
+  {
+    "description": "ROMAN EMPIRE. Nerva (AD 96–98). AV aureus (7.40 gm). Rome, AD 97. IMPerator NERVA CAESar AVGustus Pontifex Maximus TRibunus Plebis COnSul III Pater Patriae, laureate head of Nerva right / CONCORDIA EXERCITVVM, clasped right hands holding aquila set on prow. BMCRE 27. RIC 15. CBN 16.",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "nerva-cutout.png",
+    "license": "CC BY-SA 3.0",
+    "artist": "Nerva",
+    "title": "Nerva Aureus Concordia.png",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Nerva_Aureus_Concordia.png",
+    "originalFile": "nerva-aureus.png",
+    "modification": "Background removed using built-in imagegen. Original retained in assets; consult the original for inscriptions."
+  },
+  {
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Trajan_Denarius,_Roman_Dacia,_107_AD_-_Obverse.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "license": "CC BY-SA 3.0",
+    "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+    "title": "Trajan Denarius, Roman Dacia, 107 AD - Obverse.jpg",
+    "file": "trajan-obverse-cutout.png",
+    "originalFile": "trajan-obverse.jpg",
+    "modification": "Background removed using built-in imagegen. Original retained in assets; consult the original for inscriptions."
+  },
+  {
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Trajan_Denarius,_Roman_Dacia,_107_AD_-_Reverse.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "license": "CC BY-SA 3.0",
+    "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+    "title": "Trajan Denarius, Roman Dacia, 107 AD - Reverse.jpg",
+    "file": "trajan-reverse-cutout.png",
+    "originalFile": "trajan-reverse.jpg",
+    "modification": "Background removed using built-in imagegen. Original retained in assets; consult the original for inscriptions."
+  },
+  {
+    "file": "hadrian-cutout.png",
+    "license": "CC BY-SA 3.0",
+    "title": "Hadrianhispaniacoin02.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Hadrianhispaniacoin02.jpg",
+    "artist": "CNGcoins",
+    "description": "Hadrian. AD 117-138. AR Denarius (16.5mm, 3.25 g, 6h). “Restitutor” series. Rome mint. Struck circa AD 134-138. Laureate head right / RESTITVTORI HISPANIAE, Hadrian standing left, holding volumen, about to raise Hispania who is kneeling right, holding a branch; rabbit between them. RIC II 326; RSC 1270. Near VF, toned, a few shallow scratches.",
+    "originalFile": "hadrian-coin.jpg",
+    "modification": "Background removed using built-in imagegen. Original retained in assets; consult the original for inscriptions."
+  },
+  {
+    "file": "antoninus-cutout.png",
+    "license": "CC BY-SA 2.0",
+    "title": "Roman coin; denarius of Antoninus Pius; Annona reverse (FindID 255077).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Roman_coin;_denarius_of_Antoninus_Pius;_Annona_reverse_(FindID_255077).jpg",
+    "artist": "<div class=\"fn value\">\nDerby Museums Trust, Anja Rohde, 2009-05-08 12:01:39</div>",
+    "description": "Roman coin; struck silver denarius of Antoninus Pius; AD 152-3; mint of Rome Obv. Laureate bust right ANTONINVS AVG PI-VS P P TR P XVI Rev. Annona standing left COS IIII<p class=\"mw-empty-elt\"></p>\n<p>Ref: RIC 221 Very fine Die axis 12</p>",
+    "originalFile": "antoninus-coin.jpg",
+    "modification": "Background removed using built-in imagegen. Original retained in assets; consult the original for inscriptions."
+  },
+  {
+    "file": "marcus-cutout.png",
+    "license": "CC BY-SA 2.5",
+    "title": "Marcus Aurelius Sestertius 172 2290432.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_Sestertius_172_2290432.jpg",
+    "artist": "Classical Numismatic Group",
+    "description": "<p>Marcus Aurelius. AD 161-180. Æ Sestertius (28mm, 22.64 g, 11h). Rome mint. Struck AD 172-173. \n</p>\n<dl><dd><dl><dd><dl><dd>M ANTONINVS AVG TR P XXVI Laureate and cuirassed bust right</dd>\n<dd>GERMANIA SVBACTA IMP VI COS III S-C, Germania seated right at foot of trophy.</dd></dl></dd></dl></dd>\n<dd>RIC III 1054.</dd>\n<dd>Near VF, attractive light green patina.</dd></dl>",
+    "originalFile": "marcus-coin.jpg",
+    "modification": "Background removed using built-in imagegen. Original retained in assets; consult the original for inscriptions."
+  }
+]

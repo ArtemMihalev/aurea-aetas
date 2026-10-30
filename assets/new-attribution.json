@@ -41,5 +41,32 @@
     "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
     "title": "Trajan Denarius, Roman Dacia, 107 AD - Reverse.jpg",
     "file": "trajan-reverse.jpg"
+  },
+  {
+    "file": "hadrian-coin.jpg",
+    "license": "CC BY-SA 3.0",
+    "title": "Hadrianhispaniacoin02.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Hadrianhispaniacoin02.jpg",
+    "artist": "CNGcoins",
+    "description": "Hadrian. AD 117-138. AR Denarius (16.5mm, 3.25 g, 6h). “Restitutor” series. Rome mint. Struck circa AD 134-138. Laureate head right / RESTITVTORI HISPANIAE, Hadrian standing left, holding volumen, about to raise Hispania who is kneeling right, holding a branch; rabbit between them. RIC II 326; RSC 1270. Near VF, toned, a few shallow scratches."
+  },
+  {
+    "file": "antoninus-coin.jpg",
+    "license": "CC BY-SA 2.0",
+    "title": "Roman coin; denarius of Antoninus Pius; Annona reverse (FindID 255077).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Roman_coin;_denarius_of_Antoninus_Pius;_Annona_reverse_(FindID_255077).jpg",
+    "artist": "<div class=\"fn value\">\nDerby Museums Trust, Anja Rohde, 2009-05-08 12:01:39</div>",
+    "description": "Roman coin; struck silver denarius of Antoninus Pius; AD 152-3; mint of Rome Obv. Laureate bust right ANTONINVS AVG PI-VS P P TR P XVI Rev. Annona standing left COS IIII<p class=\"mw-empty-elt\"></p>\n<p>Ref: RIC 221 Very fine Die axis 12</p>"
+  },
+  {
+    "file": "marcus-coin.jpg",
+    "license": "CC BY-SA 2.5",
+    "title": "Marcus Aurelius Sestertius 172 2290432.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_Sestertius_172_2290432.jpg",
+    "artist": "Classical Numismatic Group",
+    "description": "<p>Marcus Aurelius. AD 161-180. Æ Sestertius (28mm, 22.64 g, 11h). Rome mint. Struck AD 172-173. \n</p>\n<dl><dd><dl><dd><dl><dd>M ANTONINVS AVG TR P XXVI Laureate and cuirassed bust right</dd>\n<dd>GERMANIA SVBACTA IMP VI COS III S-C, Germania seated right at foot of trophy.</dd></dl></dd></dl></dd>\n<dd>RIC III 1054.</dd>\n<dd>Near VF, attractive light green patina.</dd></dl>"
   }
 ]
