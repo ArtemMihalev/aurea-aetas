@@ -1,0 +1,9 @@
+{
+  "name": "Aurea Aetas",
+  "mode": "read-experience",
+  "palette": {"paper":"#f2eee5","ink":"#302c28","wine":"#6a282b","wineDark":"#4e1d22","gold":"#e0c28b","wineText":"#f1dfc7"},
+  "typography": {"body":"Manrope","cyrillicDisplay":"Cormorant Garamond","latinEpigraphy":"Cinzel","bodyPx":18,"minimumCaptionPx":14},
+  "motion": {"uiMs":220,"portraitMs":350,"entranceMs":700,"respectsReducedMotion":true},
+  "authority": "User's explicit burgundy/gold preference, readability and historical content brief",
+  "tooling": "Guidance read directly; native launcher unavailable; browser verification through cua_repl"
+}

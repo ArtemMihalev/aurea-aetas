@@ -1,0 +1,45 @@
+[
+  {
+    "description": "Pantheon (Rome) - Interior‎",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "pantheon-interior.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Jsamwrites\" title=\"User:Jsamwrites\">John Samuel</a>",
+    "title": "Pantheon (Rome) - Interior 01.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Interior_01.jpg"
+  },
+  {
+    "description": "A silver denarius of Trajan (AD 96-117).  The coin measures 19mm in diameter, and 2.0mm in thickness.  It weighs 3.0g.\n<p>The form of the obverse legend dates the coin to the year AD 97.  The coin commemorates Trajan's campaigns in Dacia (modern Romania).  These campaigns are more famously referred to on Trajan's Column in Rome.\n</p><p>Obv: Laureate and draped bust right / IMP TRAIANO AVG GER DAC P M TR P\n</p><p>Rev: Dacian captive seated left on pile of arms / COS V P P SPQR OPTIMO PRINC //DAC CAP\n</p>\nRIC II, p. 251, no.98.",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "trajan-denarius.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<div class=\"fn value\">\nNone, Steven Ashby, 2007-07-19 00:07:35</div>",
+    "title": "Roman coin, Silver denarius of Trajan, commemorating Dacian campaign (FindID 184479).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Roman_coin,_Silver_denarius_of_Trajan,_commemorating_Dacian_campaign_(FindID_184479).jpg"
+  },
+  {
+    "description": "ROMAN EMPIRE. Nerva (AD 96–98). AV aureus (7.40 gm). Rome, AD 97. IMPerator NERVA CAESar AVGustus Pontifex Maximus TRibunus Plebis COnSul III Pater Patriae, laureate head of Nerva right / CONCORDIA EXERCITVVM, clasped right hands holding aquila set on prow. BMCRE 27. RIC 15. CBN 16.",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "nerva-aureus.png",
+    "license": "CC BY-SA 3.0",
+    "artist": "Nerva",
+    "title": "Nerva Aureus Concordia.png",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Nerva_Aureus_Concordia.png"
+  },
+  {
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Trajan_Denarius,_Roman_Dacia,_107_AD_-_Obverse.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "license": "CC BY-SA 3.0",
+    "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+    "title": "Trajan Denarius, Roman Dacia, 107 AD - Obverse.jpg",
+    "file": "trajan-obverse.jpg"
+  },
+  {
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Trajan_Denarius,_Roman_Dacia,_107_AD_-_Reverse.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "license": "CC BY-SA 3.0",
+    "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+    "title": "Trajan Denarius, Roman Dacia, 107 AD - Reverse.jpg",
+    "file": "trajan-reverse.jpg"
+  }
+]
